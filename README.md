@@ -1,28 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=220&section=header&text=APEX%20X%20FORGE&fontSize=60&fontColor=FF6B35&animation=fadeIn&fontAlignY=38&desc=Building%20in%20Python%20%26%20Java%20%E2%80%94%20one%20automation%20at%20a%20time&descAlignY=58&descSize=18&descColor=FFA630" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=0D1117,FF6B35,FFA630&height=230&section=header&text=APEX%20X%20FORGE&fontSize=58&fontColor=F5F5F5&animation=fadeIn&fontAlignY=35&desc=B.Tech%20AIML%2FCSE%20%E2%80%A2%20Python%20%26%20Java%20%E2%80%A2%20Automation&descAlignY=58&descSize=17&descColor=F5F5F5" width="100%"/>
+
+<br>
+
+<a href="https://github.com/apexxforge">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=FF6B35&center=true&vCenter=true&width=650&lines=whoami+%E2%86%92+B.Tech+AIML%2FCSE%2C+4th+Year+Student;stack+%E2%86%92+Python+%C2%B7+Java+%C2%B7+Telegram+Bot+API;status+%E2%86%92+Building+automation+tools+%26+bots;open_to+%E2%86%92+Not+looking+right+now+%E2%80%94+just+building" alt="Typing SVG" />
+</a>
 
 </div>
 
-<div align="center">
-
-```
-$ whoami
-> ApexXForge | B.Tech AIML/CSE, 4th Year Student
-$ stack --list
-> Python · Java · Telegram Bot API
-$ status
-> Building automation tools & bots
-$ open_to
-> Nothing right now — just building my profile
-```
-
-</div>
+<br>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Degree-B.Tech%20AIML%2FCSE-0D1117?style=flat-square&labelColor=0D1117&color=FF6B35"/>
-<img src="https://img.shields.io/badge/College-Expert%20Apex%20Codex-0D1117?style=flat-square&labelColor=0D1117&color=FFA630"/>
-<img src="https://img.shields.io/badge/Status-4th%20Year%20Student-0D1117?style=flat-square&labelColor=0D1117&color=FF6B35"/>
+
+<img src="https://img.shields.io/badge/DEGREE-B.TECH%20AIML%2FCSE-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6B35"/>
+<img src="https://img.shields.io/badge/COLLEGE-EXPERT%20APEX%20CODEX-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA630"/>
+<img src="https://img.shields.io/badge/STATUS-4TH%20YEAR%20STUDENT-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6B35"/>
+
 </div>
 
 <div align="center">
@@ -36,9 +31,17 @@ $ open_to
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=apexxforge&label=PROFILE+VIEWS&color=FF6B35&style=flat-square)
-![Followers](https://img.shields.io/github/followers/apexxforge?label=FOLLOWERS&color=FFA630&style=flat-square)
-![Stars](https://img.shields.io/github/stars/apexxforge?label=STARS&color=FF6B35&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=apexxforge&label=PROFILE+VIEWS&color=FF6B35&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/apexxforge?label=FOLLOWERS&color=FFA630&style=for-the-badge"/>
+<img src="https://img.shields.io/github/stars/apexxforge?label=STARS&color=FF6B35&style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+&nbsp;
 
 </div>
 
@@ -70,10 +73,10 @@ OPEN_TO  : Not currently looking — building my profile
 
 <div align="center">
 
-![Automation](https://img.shields.io/badge/Automation-FF6B35?style=flat-square&labelColor=0D1117)
-![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-FFA630?style=flat-square&labelColor=0D1117)
-![Python Scripting](https://img.shields.io/badge/Python%20Scripting-FF6B35?style=flat-square&labelColor=0D1117)
-![Learning AI/ML](https://img.shields.io/badge/Learning%20AI%2FML-FFA630?style=flat-square&labelColor=0D1117)
+![Automation](https://img.shields.io/badge/AUTOMATION-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6B35)
+![Telegram Bots](https://img.shields.io/badge/TELEGRAM%20BOTS-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA630)
+![Python Scripting](https://img.shields.io/badge/PYTHON%20SCRIPTING-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6B35)
+![Learning AI/ML](https://img.shields.io/badge/LEARNING%20AI%2FML-0D1117?style=for-the-badge&labelColor=0D1117&color=FFA630)
 
 </div>
 
@@ -123,7 +126,7 @@ Built and maintained as personal learning projects while studying AIML/CSE — f
 
 <div align="center">
 
-[![Education](https://img.shields.io/badge/B.Tech%20AIML%2FCSE%20%E2%80%94%20Expert%20Apex%20Codex-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6B35)](https://github.com/apexxforge)
+[![Education](https://img.shields.io/badge/B.TECH%20AIML%2FCSE%20%E2%80%94%20EXPERT%20APEX%20CODEX-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6B35)](https://github.com/apexxforge)
 
 </div>
 
@@ -211,8 +214,10 @@ open_to:
 
 <div align="center">
 
-*"Still building — one script at a time."*
+<sub>✦ *"Still building — one script at a time."* ✦</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=120&section=footer&fontColor=FF6B35" width="100%"/>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=FFA630,FF6B35,0D1117&height=120&section=footer" width="100%"/>
