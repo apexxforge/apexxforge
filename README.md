@@ -15,7 +15,6 @@
 <div align="center">
 
 ### ⚡ SYSTEM STATUS
-![banner](wardrobe.gif)
 
 <img src="https://img.shields.io/badge/INDIA-FF0033?style=for-the-badge&logo=googlemaps&logoColor=white" />
 <img src="https://img.shields.io/badge/AVAILABLE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" />
