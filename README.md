@@ -1,103 +1,218 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=0,2,2,5,30&text=APEXX%20FORGE&fontSize=65&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20%7C%20Automation%20%7C%20Full%20Stack%20Developer&descAlignY=55&descSize=20"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=750&lines=%F0%9F%94%A5+Welcome+to+the+Forge;AI+Automation+Engineer;Python+%7C+React+%7C+Node.js;I+Build.+I+Automate.+I+Ship." alt="Typing SVG" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/hacker.gif" width="420">
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=220&section=header&text=APEX%20X%20FORGE&fontSize=60&fontColor=FF6B35&animation=fadeIn&fontAlignY=38&desc=Building%20in%20Python%20%26%20Java%20%E2%80%94%20one%20automation%20at%20a%20time&descAlignY=58&descSize=18&descColor=FFA630" width="100%"/>
 
 </div>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 <div align="center">
 
-### ⚡ SYSTEM STATUS
-
-<img src="https://img.shields.io/badge/INDIA-FF0033?style=for-the-badge&logo=googlemaps&logoColor=white" />
-<img src="https://img.shields.io/badge/AVAILABLE-00FF88?style=for-the-badge&logo=statuspage&logoColor=black" />
-<img src="https://komarev.com/ghpvc/?username=apexxforge&style=for-the-badge&color=00F0FF&label=VIEWS" />
-
-</div>
-
-<br/>
-
-<table align="center">
-<tr>
-<td valign="top" width="55%">
-
-```yaml
-> whoami
-name: ApexX Forge
-role: AI / Automation / Full-Stack Dev
-location: India 🇮🇳
-mission: "Turn boring workflows into
-          one-click magic"
-status: Building next-gen automation stack 🚀
+```
+$ whoami
+> ApexXForge | B.Tech AIML/CSE, 4th Year Student
+$ stack --list
+> Python · Java · Telegram Bot API
+$ status
+> Building automation tools & bots
+$ open_to
+> Nothing right now — just building my profile
 ```
 
-- 🔭 Building **AI automation tools**
-- 🌱 Mastering **system design & scalable backends**
-- 💬 Ask me about **Python, Automation, AI Integrations**
-- ⚡ I ship fast and iterate faster
-
-</td>
-<td valign="top" width="45%" align="center">
-<img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/matrix-code.gif" width="100%">
-</td>
-</tr>
-</table>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
-<div align="center">
-
-### 🔗 CONNECT
-
-[![Telegram](https://img.shields.io/badge/@ApexXForge-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ApexXForge)
-[![Channel](https://img.shields.io/badge/Channel-ApexXchannels-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ApexXchannels)
-[![Group](https://img.shields.io/badge/Join%20Group-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+xgF52gnh3OsyNGM1)
-[![Premium](https://img.shields.io/badge/Premium%20Tools-FFCC00?style=for-the-badge&logo=telegram&logoColor=black)](https://t.me/ApexXPremiumTools)
-
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
 <div align="center">
-
-### 🛠️ TECH ARSENAL
-
-<img src="https://skillicons.dev/icons?i=python,react,js,ts,html,css,nodejs,express,flask,git,github,vscode,linux,docker,figma&theme=dark" />
-
+<img src="https://img.shields.io/badge/Degree-B.Tech%20AIML%2FCSE-0D1117?style=flat-square&labelColor=0D1117&color=FF6B35"/>
+<img src="https://img.shields.io/badge/College-Expert%20Apex%20Codex-0D1117?style=flat-square&labelColor=0D1117&color=FFA630"/>
+<img src="https://img.shields.io/badge/Status-4th%20Year%20Student-0D1117?style=flat-square&labelColor=0D1117&color=FF6B35"/>
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
 <div align="center">
 
-### 📊 LIVE STATS
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=apexxforge&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=apexxforge&theme=chartreuse-dark&hide_border=true&background=0D1117" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=apexxforge&theme=react-dark&hide_border=true&bg_color=0D1117&area=true" width="90%"/>
-
-<sub>⚠️ Agar stats "Failed to retrieve" dikhaye, ye GitHub API ka temporary rate-limit hai — kuch minute baad refresh karne par khud theek ho jata hai.</sub>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
-<div align="center">
-
-### 🏆 TROPHIES
-
-<img src="https://github-profile-trophy.vercel.app/?username=apexxforge&theme=algolia&no-frame=true&row=1&column=7" />
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF6B35?style=for-the-badge&logo=youtube&logoColor=0D1117)](https://youtube.com/@apexxforge)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-FFA630?style=for-the-badge&logo=telegram&logoColor=0D1117)](https://t.me/ApexXForge)
+[![Email](https://img.shields.io/badge/EMAIL-FF6B35?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:apexxforge@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-FFA630?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/apexxforge)
 
 </div>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,2,5,30&section=footer&animation=twinkling"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=apexxforge&label=PROFILE+VIEWS&color=FF6B35&style=flat-square)
+![Followers](https://img.shields.io/github/followers/apexxforge?label=FOLLOWERS&color=FFA630&style=flat-square)
+![Stars](https://img.shields.io/github/stars/apexxforge?label=STARS&color=FF6B35&style=flat-square)
+
 </div>
+
+---
+
+### `$ cat about.md`
+
+I'm a 4th-year B.Tech student in AI/ML & CSE at Expert Apex Codex, learning by building — mostly Python and Java projects, with a focus on Telegram bot development and automation. No industry experience yet; this profile is where I track what I'm making as I go.
+
+```bash
+ROLE     : B.Tech Student (AIML/CSE)
+EXP      : Student — no industry experience yet
+DOMAIN   : Automation, Telegram Bot Development
+STACK    : Python, Java
+OPEN_TO  : Not currently looking — building my profile
+```
+
+---
+
+### `$ ls tech-stack/`
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,git,github,vscode,linux&theme=dark" />
+</div>
+
+---
+
+### `$ cat specialties.md`
+
+<div align="center">
+
+![Automation](https://img.shields.io/badge/Automation-FF6B35?style=flat-square&labelColor=0D1117)
+![Telegram Bots](https://img.shields.io/badge/Telegram%20Bots-FFA630?style=flat-square&labelColor=0D1117)
+![Python Scripting](https://img.shields.io/badge/Python%20Scripting-FF6B35?style=flat-square&labelColor=0D1117)
+![Learning AI/ML](https://img.shields.io/badge/Learning%20AI%2FML-FFA630?style=flat-square&labelColor=0D1117)
+
+</div>
+
+---
+
+### `$ cat expertise.table`
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| Python | 🟧🟧🟧🟧⬜ | Scripting, automation, bot logic |
+| Java | 🟧🟧🟧⬜⬜ | Core coursework & OOP projects |
+| Telegram Bot Development | 🟧🟧🟧🟧⬜ | Building and maintaining bots via Telegram Bot API |
+| Automation Tools | 🟧🟧🟧🟧⬜ | Scripts to automate repetitive workflows |
+| AI/ML (Coursework) | 🟧🟧⬜⬜⬜ | Currently studying as part of B.Tech curriculum |
+
+---
+
+### `$ ./featured-projects.sh`
+
+<details open>
+<summary><b>🤖 Telegram Bots & Automation Tools</b></summary>
+<br>
+
+| | |
+|---|---|
+| **Stack** | Python, Telegram Bot API |
+| **Scale** | Personal / independent projects |
+| **Impact** | Ongoing hands-on practice building and deploying Telegram bots and automation scripts |
+
+Built and maintained as personal learning projects while studying AIML/CSE — focused on Telegram Bot API integration and workflow automation in Python.
+
+</details>
+
+---
+
+### `$ cat currently.log`
+
+```
+📚 Learning   : AI/ML fundamentals (B.Tech coursework)
+🛠️  Building   : Telegram bots & Python automation tools
+🎯 Focus      : Strengthening core Python & Java fundamentals
+```
+
+---
+
+### `$ cat education.badge`
+
+<div align="center">
+
+[![Education](https://img.shields.io/badge/B.Tech%20AIML%2FCSE%20%E2%80%94%20Expert%20Apex%20Codex-0D1117?style=for-the-badge&labelColor=0D1117&color=FF6B35)](https://github.com/apexxforge)
+
+</div>
+
+---
+
+### `$ ./github-analytics.sh`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=apexxforge&show_icons=true&theme=transparent&bg_color=0D1117&title_color=FF6B35&icon_color=FFA630&text_color=F5F5F5&border_color=FF6B35&hide_border=false" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=apexxforge&background=0D1117&stroke=FF6B35&ring=FF6B35&fire=FFA630&currStreakLabel=F5F5F5&sideLabels=F5F5F5&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=F5F5F5&border=FF6B35&hide_border=false" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apexxforge&layout=compact&theme=transparent&bg_color=0D1117&title_color=FF6B35&text_color=F5F5F5&border_color=FF6B35&hide_border=false" width="49%"/>
+
+</div>
+
+---
+
+### `$ ./trophies.sh`
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=apexxforge&theme=dracula&column=7&margin-w=8&margin-h=8&no-bg=true&title=Stars,Commits,Repositories,Followers,Issues,PullRequest,Experience" />
+</div>
+
+---
+
+### `$ ./activity-graph.sh`
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=apexxforge&bg_color=0D1117&color=FF6B35&line=FF6B35&point=FFA630&area=true&hide_border=true" width="100%"/>
+</div>
+
+---
+
+### `$ ./summary-cards.sh`
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apexxforge&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apexxforge&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apexxforge&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apexxforge&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apexxforge&theme=github_dark&utcOffset=5.5" width="49%"/>
+
+</div>
+
+---
+
+### `$ ./snake.sh`
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/apexxforge/apexxforge/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+> Note: the snake animation needs a one-time GitHub Actions workflow set up on this repo to generate that SVG — it won't render until that action runs at least once.
+
+---
+
+### `$ cat focus.yaml`
+
+```yaml
+learning:
+  - AI/ML fundamentals (B.Tech coursework)
+building:
+  - Telegram bots (Python, Telegram Bot API)
+  - Automation scripts
+exploring:
+  - Core Java concepts
+open_to:
+  - Not currently looking for roles
+```
+
+---
+
+### `$ ./connect.sh`
+
+<div align="center">
+
+[![YouTube](https://img.shields.io/badge/YOUTUBE-FF6B35?style=for-the-badge&logo=youtube&logoColor=0D1117)](https://youtube.com/@apexxforge)
+[![Telegram](https://img.shields.io/badge/TELEGRAM-FFA630?style=for-the-badge&logo=telegram&logoColor=0D1117)](https://t.me/ApexXForge)
+[![Email](https://img.shields.io/badge/EMAIL-FF6B35?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:apexxforge@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-FFA630?style=for-the-badge&logo=github&logoColor=0D1117)](https://github.com/apexxforge)
+
+</div>
+
+<div align="center">
+
+*"Still building — one script at a time."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=120&section=footer&fontColor=FF6B35" width="100%"/>
